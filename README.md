@@ -14,7 +14,13 @@ Studying Data Engineering at SoulCode Academy
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy"  width="40" height="40"/> </a> 
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql"  width="40" height="40"/> </a> 
+        <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" rel="noreferrer"> 
+        <img src="https://miro.medium.com/max/720/1*MwZZjt-IlJU0TFaZxfBz1Q.webp" alt="py spark"  width="60" height="40"/> </a> 
+        <a href="https://beam.apache.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://beam.apache.org/images/beam_logo_navbar.png" alt="apache beam"  width="60" height="40"/> </a>
 </div><br/>
+
+
 
 ## 
             
@@ -83,6 +89,10 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
         <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
         <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy"  width="40" height="40"/> </a> 
+
+        <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://i0.wp.com/i.postimg.cc/05GbBjLt/Apache-Beam.png?resize=810%2C456&ssl=1" alt="numpy"  width="40" height="40"/> </a> 
+        <img src="" alt="numpy"  width="40" height="40"/> </a> 
         
         
             
